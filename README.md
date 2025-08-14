@@ -1,5 +1,4 @@
 # Data Scientist | AI/ML Enthusiast
-### 🎯 From Rajamahendravaram, Engineering Tomorrow's Intelligence
 
 <div align="center">
 
@@ -58,17 +57,17 @@ Implemented the Black-Scholes-Merton model to calculate the theoretical price of
 ## 🎓 Education & Certifications
 
 **🎯 B.Tech in Artificial Intelligence & Machine Learning**  
-*Aditya College of Engineering and Technology*  
-*Expected Graduation: 2026*
+Aditya College of Engineering and Technology  
+Expected Graduation: 2026
 
 **📊 Data Analytics Internship**  
-*SmartBridge (May 2025 - Jul 2025)*  
+SmartBridge (May 2025 - Jul 2025)
 - Mastered data visualization and dashboard creation with Tableau
 - Analyzed complex datasets to identify key trends and generate actionable insights
 - Designed 5+ interactive Tableau dashboards
 
 **🤖 AIML Trainee Internship**  
-*EduNet Foundation (May 2024 - Jun 2024)*  
+EduNet Foundation (May 2024 - Jun 2024)
 - Completed intensive 6-week training in ML model development
 - Applied algorithms on diverse datasets using IBM SkillsBuild platform
 - Achieved sentiment classification on 10,000+ product reviews dataset
@@ -77,29 +76,25 @@ Implemented the Black-Scholes-Merton model to calculate the theoretical price of
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Programming & Data Science
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-006400?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-006400?style=flat-square&logo=python&logoColor=white)
 
 ### Data Visualization & Tools
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-388E3C?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -107,12 +102,20 @@ Implemented the Black-Scholes-Merton model to calculate the theoretical price of
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marepallisanthosh999333&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marepallisanthosh999333&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marepallisanthosh999333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marepallisanthosh999333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marepallisanthosh999333&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marepallisanthosh999333&theme=tokyonight&no-frame=true&column=6)
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marepallisanthosh999333&theme=tokyonight&hide_border=true&background=0D1117)
+
+</div>
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marepallisanthosh999333&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4)
 
 </div>
 
@@ -128,12 +131,10 @@ Implemented the Black-Scholes-Merton model to calculate the theoretical price of
 
 ---
 
-<div align="center">
-
 ### 💡 "Data is the new oil, but machine learning is the refinery that transforms it into actionable insights."
 
 ⭐ **Feel free to explore my repositories and connect for collaboration opportunities!** ⭐
 
-**Made with ❤️ by Santhosh Marepalli**
+---
 
-</div>
+**Made with ❤️ by Santhosh Marepalli**
