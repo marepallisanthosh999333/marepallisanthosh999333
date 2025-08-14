@@ -56,21 +56,21 @@ Implemented the Black-Scholes-Merton model to calculate the theoretical price of
 
 ## 🎓 Education & Certifications
 
-**🎯 B.Tech in Artificial Intelligence & Machine Learning**  
+🎯 **B.Tech in Artificial Intelligence & Machine Learning**  
 Aditya College of Engineering and Technology  
 Expected Graduation: 2026
 
-**📊 Data Analytics Internship**  
+📊 **Data Analytics Internship**  
 SmartBridge (May 2025 - Jul 2025)
-- Mastered data visualization and dashboard creation with Tableau
-- Analyzed complex datasets to identify key trends and generate actionable insights
-- Designed 5+ interactive Tableau dashboards
+- • Mastered data visualization and dashboard creation with Tableau
+- • Analyzed complex datasets to identify key trends and generate actionable insights
+- • Designed 5+ interactive Tableau dashboards
 
-**🤖 AIML Trainee Internship**  
+🤖 **AIML Trainee Internship**  
 EduNet Foundation (May 2024 - Jun 2024)
-- Completed intensive 6-week training in ML model development
-- Applied algorithms on diverse datasets using IBM SkillsBuild platform
-- Achieved sentiment classification on 10,000+ product reviews dataset
+- • Completed intensive 6-week training in ML model development
+- • Applied algorithms on diverse datasets using IBM SkillsBuild platform
+- • Achieved sentiment classification on 10,000+ product reviews dataset
 
 ---
 
@@ -137,4 +137,4 @@ EduNet Foundation (May 2024 - Jun 2024)
 
 ---
 
-**Made with ❤️ by Santhosh Marepalli**
+**Made with ❤️ by Marepalli Santhosh**
